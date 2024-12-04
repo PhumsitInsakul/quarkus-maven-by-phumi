@@ -2,12 +2,6 @@ package io.quarkiverse.cxf.it.server;
 
 import jakarta.jws.WebMethod;
 import jakarta.jws.WebService;
-import jakarta.ws.rs.Consumes;
-import jakarta.ws.rs.POST;
-import jakarta.ws.rs.Produces;
-import jakarta.ws.rs.core.MediaType;
-import jakarta.ws.rs.core.Response;
-import jakarta.xml.bind.annotation.XmlElement;
 import org.apache.logging.log4j.Logger;
 import org.apache.logging.log4j.LogManager;
 
